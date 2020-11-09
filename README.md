@@ -25,11 +25,22 @@
 ## Design and Product
 
 #### Design Tools
-
+* [Figma](https://www.figma.com/) - The collaborative interface design tool, for vector graphics and UI prototyping.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/figma.png">
+    </details>
 * [Lanhu](https://lanhuapp.com/) - Efficient product design collaboration platform.
     <details>
         <summary>Preview</summary>
         <img src="Previews/lanhu.png">
     </details>
+* [Mockplus](https://www.mockplus.com/) - The most robust all-in-one product design platform for prototyping, collaboration, and design systems.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/mockplus.png">
+    </details>
+
+
 ## Writing Tools
 ......
