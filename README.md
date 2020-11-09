@@ -7,6 +7,7 @@
 
 - [Developer Tools](#developer-tools)
 - [Design and Product](#design-and-product)
+    - [Design Tools](#design-tools)
 
 ## Developer Tools
 
@@ -15,11 +16,20 @@
         <summary>Preview</summary>
         <img src="Previews/carbon.png">
     </details>
-* [gitignore.io](https://www.toptal.com/developers/gitignore) - Create Useful .gitignore Files For Your Project
+* [gitignore.io](https://www.toptal.com/developers/gitignore/) - Create Useful .gitignore Files For Your Project.
     <details>
         <summary>Preview</summary>
         <img src="Previews/gitignore.png">
     </details>
 
 ## Design and Product
+
+#### Design Tools
+
+* [Lanhu](https://lanhuapp.com/) - Efficient product design collaboration platform.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/lanhu.png">
+    </details>
+## Writing Tools
 ......
