@@ -8,6 +8,9 @@
 - [Developer Tools](#developer-tools)
 - [Design and Product](#design-and-product)
     - [Design Tools](#design-tools)
+    - [Other Tools](#other-tools)
+- [Writing Tools](#writing-tools)
+- [Media Tools](#media-tools)
 
 ## Developer Tools
 
@@ -24,7 +27,7 @@
 
 ## Design and Product
 
-#### Design Tools
+### Design Tools
 * [Figma](https://www.figma.com/) - The collaborative interface design tool, for vector graphics and UI prototyping.
     <details>
         <summary>Preview</summary>
@@ -40,7 +43,33 @@
         <summary>Preview</summary>
         <img src="Previews/mockplus.png">
     </details>
-
+    
+### Other Tools
+* [QRBTF](https://qrbtf.com/) - Parametric QR code generator.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/qrbtf.png">
+    </details>
 
 ## Writing Tools
+* [Notion](https://www.notion.so/) - One tool for your whole team. Write, plan, and get organized.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/notion.png">
+    </details>
+* [Roam Research](https://roamresearch.com/) - A note-taking tool
+for networked thought.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/roamresearch.png">
+    </details>
+
+## Media Tools
+
+* [SubPlayer](https://subplayer.js.org/) - An online subtitle editor.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/subplayer.png">
+    </details>
+
 ......
