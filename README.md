@@ -44,6 +44,18 @@
         <img src="Previews/mockplus.png">
     </details>
     
+### Drawing tools
+* [diagrams](https://app.diagrams.net/) - Flowchart Maker & Online Diagram Software.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/diagrams.png">
+    </details>
+* [ProcessOn](https://www.processon.com/) - Free online mapping, mind mapping, flow chart, real-time collaboration.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/processon.png">
+    </details>
+    
 ### Other Tools
 * [QRBTF](https://qrbtf.com/) - Parametric QR code generator.
     <details>
@@ -71,5 +83,20 @@ for networked thought.
         <summary>Preview</summary>
         <img src="Previews/subplayer.png">
     </details>
-
+* [LALAL.AI](https://www.lalal.ai/) - 100% AI-Powered Vocal and Instrumental Tracks Removal
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/lalalai.png">
+    </details>
+* [Splitter.ai](https://www.splitter.ai/) - AI powered audio extraction
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/splitterai.png">
+    </details>
+* [Moises](https://moises.ai/zh-cn/) - Extract vocals and instruments from any audio/video file. Create samples and remixes using high-fidelity audio stems powered by AI.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/moisesai.png">
+    </details>
+     
 ......
