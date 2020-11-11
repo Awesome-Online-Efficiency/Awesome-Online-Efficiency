@@ -14,6 +14,11 @@
 
 ## Developer Tools
 
+* [Hoppscotch](https://hoppscotch.io/) - A free, fast and beautiful API request builder.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/hoppscotch.png">
+    </details>
 * [carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
     <details>
         <summary>Preview</summary>
@@ -28,6 +33,7 @@
 ## Design and Product
 
 ### Design Tools
+
 * [Figma](https://www.figma.com/) - The collaborative interface design tool, for vector graphics and UI prototyping.
     <details>
         <summary>Preview</summary>
@@ -43,8 +49,9 @@
         <summary>Preview</summary>
         <img src="Previews/mockplus.png">
     </details>
-    
+
 ### Drawing tools
+
 * [diagrams](https://app.diagrams.net/) - Flowchart Maker & Online Diagram Software.
     <details>
         <summary>Preview</summary>
@@ -53,10 +60,15 @@
 * [ProcessOn](https://www.processon.com/) - Free online mapping, mind mapping, flow chart, real-time collaboration.
     <details>
         <summary>Preview</summary>
-        <img src="Previews/processon.png">
+        <img src="Previews/processon`.png">
     </details>
     
 ### Other Tools
+* [Typeform](https://www.typeform.com/) - People-Friendly Forms and Surveys.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/typefrom.png">
+    </details>
 * [QRBTF](https://qrbtf.com/) - Parametric QR code generator.
     <details>
         <summary>Preview</summary>
@@ -64,6 +76,17 @@
     </details>
 
 ## Writing Tools
+
+* [DeepL](https://www.deepl.com/translator/) - DeepL, an online translator that outperforms Google, Microsoft and Facebook.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/deepl.png">
+    </details>
+* [Smallpdf](https://smallpdf.com/cn) - A Free Solution to all your PDF Problems.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/smallpdf.png">
+    </details>
 * [Notion](https://www.notion.so/) - One tool for your whole team. Write, plan, and get organized.
     <details>
         <summary>Preview</summary>
@@ -75,7 +98,27 @@ for networked thought.
         <summary>Preview</summary>
         <img src="Previews/roamresearch.png">
     </details>
-
+* [KgBase](https://www.kgbase.com/) - Generate insights by connecting datasets,build your own knowledge graphs without writing code.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/kgbase.png">
+    </details>
+* [Coda](https://coda.io/welcome) - A new doc for teams.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/coda.png">
+    </details>
+* [RemNote](https://www.remnote.io/) - The Best Way to Remember and Organize What You Learn.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/remnote.png">
+    </details>
+* [小书匠](https://markdown.xiaoshujiang.com/) - Online Markdown Tool.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/xiaoshujiang.png">
+    </details>
+    
 ## Media Tools
 
 * [SubPlayer](https://subplayer.js.org/) - An online subtitle editor.
@@ -98,5 +141,5 @@ for networked thought.
         <summary>Preview</summary>
         <img src="Previews/moisesai.png">
     </details>
-     
+    
 ......
