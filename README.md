@@ -11,6 +11,7 @@
     - [Other Tools](#other-tools)
 - [Writing Tools](#writing-tools)
 - [Media Tools](#media-tools)
+- [Cloud Storage](#cloud-storage)
 
 ## Developer Tools
 
@@ -142,4 +143,12 @@ for networked thought.
         <img src="Previews/moisesai.png">
     </details>
     
+## Cloud Storage
+
+* [box](https://www.box.com/home/) -  cloud storage which provides file sharing, collaborating, and other tools for working with files that are uploaded to its servers.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/box.png">
+    </details>
+
 ......
