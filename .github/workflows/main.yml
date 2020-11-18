@@ -1,0 +1,24 @@
+name: Auto Merge
+
+on:
+  pull_request:
+    branches: [master, imgbot]
+    types:
+      - labeled
+  workflow_dispatch:
+
+env:
+  BUILD_INFO: "Workflow:${{ github.workflow }} / RunId:${{ github.run_id }} / Ref:${{ github.ref }} / SHA:${{ github.sha }}"
+
+jobs:
+  automerge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: davideviolante/pr-automerge-action@v1.1.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+        with:
+          merge-method: 'rebase'
+          min-approvals: 1
+          base-ref: 'master'
