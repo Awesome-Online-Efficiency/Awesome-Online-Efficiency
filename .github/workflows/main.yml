@@ -15,10 +15,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: davideviolante/pr-automerge-action@v1.1.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
-        with:
-          merge-method: 'rebase'
-          min-approvals: 1
-          base-ref: 'master'
+     - uses: davideviolante/pr-automerge-action@v1.1.0
+       env:
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+       with:
+         merge-method: 'rebase' # Default 'squash'
+         min-approvals: 2 # Default 2
+         base-ref: 'master' # Default 'dev'
