@@ -1,24 +1,20 @@
 name: Auto Merge
 
 on:
-  pull_request:
-    branches: [master, imgbot]
+  status: {}
+  check_suite:
     types:
-      - labeled
-  workflow_dispatch:
-
-env:
-  BUILD_INFO: "Workflow:${{ github.workflow }} / RunId:${{ github.run_id }} / Ref:${{ github.ref }} / SHA:${{ github.sha }}"
+      - completed
 
 jobs:
-  automerge:
+  automerge-action:
     runs-on: ubuntu-latest
-
+    name: automerge
     steps:
-     - name: checkout
-       uses: actions/checkout@v2
-     - name: automerge-action
-       id: automerge-action
-       uses: conda-forge/automerge-action@master
-       with:
-         github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: automerge-action
+        id: automerge-action
+        uses: conda-forge/automerge-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
