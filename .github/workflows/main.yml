@@ -15,18 +15,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-     - uses: davideviolante/pr-automerge-action@v1.1.0
-       if: steps.waitforstatuschecks.outputs.status == 'success'
-       env:
-         GITHUB_TOKEN: "${{ secrets.WORKFLOW_ACCESS_TOKEN }}"
-         MERGE_LABELS: ""
-         MERGE_REMOVE_LABELS: "automerge"
-         MERGE_COMMIT_MESSAGE: "pull-request-description"
-         MERGE_FORKS: "false"
-         MERGE_RETRIES: "6"
-         MERGE_RETRY_SLEEP: "10000"
-         UPDATE_LABELS: ""
+     - name: checkout
+       uses: actions/checkout@v2
+     - name: automerge-action
+       id: automerge-action
+       uses: conda-forge/automerge-action@master
        with:
-         merge-method: 'rebase' # Default 'squash'
-         min-approvals: 2 # Default 2
-         base-ref: 'master' # Default 'dev'
+         github_token: ${{ secrets.GITHUB_TOKEN }}
