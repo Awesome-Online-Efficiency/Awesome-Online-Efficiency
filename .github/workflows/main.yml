@@ -21,4 +21,4 @@ jobs:
        with:
          merge-method: 'rebase' # Default 'squash'
          min-approvals: 2 # Default 2
-         base-ref: 'imgbot' # Default 'dev'
+         base-ref: 'master' # Default 'dev'
