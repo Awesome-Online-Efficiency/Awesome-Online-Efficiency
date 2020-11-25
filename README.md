@@ -8,6 +8,8 @@
 - [Developer Tools](#developer-tools)
 - [Design and Product](#design-and-product)
     - [Design Tools](#design-tools)
+    - [Drawing Tools](#drawing-tools)
+    - [Product Tools](#product-tools)
     - [Other Tools](#other-tools)
 - [Writing Tools](#writing-tools)
 - [Media Tools](#media-tools)
@@ -24,6 +26,16 @@
     <details>
         <summary>Preview</summary>
         <img src="Previews/carbon.png">
+    </details>
+* [CodePen](https://codepen.io/) - Online Code Editor and Front End Web Developer Community.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/codepen.png">
+    </details>
+* [Choose a License](https://choosealicense.com/) - Choose an open source license.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/choosealicense.png">
     </details>
 * [gitignore.io](https://www.toptal.com/developers/gitignore/) - Create Useful .gitignore Files For Your Project.
     <details>
@@ -51,7 +63,7 @@
         <img src="Previews/mockplus.png">
     </details>
 
-### Drawing tools
+### Drawing Tools
 
 * [diagrams](https://app.diagrams.net/) - Flowchart Maker & Online Diagram Software.
     <details>
@@ -61,8 +73,27 @@
 * [ProcessOn](https://www.processon.com/) - Free online mapping, mind mapping, flow chart, real-time collaboration.
     <details>
         <summary>Preview</summary>
-        <img src="Previews/processon`.png">
+        <img src="Previews/processon.png">
     </details>
+
+### Product Tools
+
+* [Taskade](https://www.taskade.com/) - All-in-One Collaboration. Remote Team Workspace.
+        <details>
+        <summary>Preview</summary>
+        <img src="Previews/taskade.png">
+    </details>
+* [TickTick](https://ticktick.com/) - Todo list, checklist and task manager app.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/ticktick.png">
+    </details>
+* [The Pomodoro Tracker](https://pomodoro-tracker.com/) - A useful tool for time management based on Pomodoro Technique.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/pomodoro-tracker.png">
+    </details>
+    
     
 ### Other Tools
 * [Typeform](https://www.typeform.com/) - People-Friendly Forms and Surveys.
@@ -75,6 +106,8 @@
         <summary>Preview</summary>
         <img src="Previews/qrbtf.png">
     </details>
+    
+
 
 ## Writing Tools
 
@@ -114,6 +147,21 @@ for networked thought.
         <summary>Preview</summary>
         <img src="Previews/remnote.png">
     </details>
+* [Milanote](https://milanote.com/) - the tool for organizing creative projects.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/milanote.png">
+    </details>
+* [Crossnote](https://crossnote.app/) - Online Notebook.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/crossnote.png">
+    </details>
+* [Walling](https://walling.app/) - Visual Walls to Collect Ideas & Plot out Projects.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/walling.png">
+    </details>
 * [小书匠](https://markdown.xiaoshujiang.com/) - Online Markdown Tool.
     <details>
         <summary>Preview</summary>
@@ -142,6 +190,11 @@ for networked thought.
         <summary>Preview</summary>
         <img src="Previews/moisesai.png">
     </details>
+* [Tune My Music](https://www.tunemymusic.com/) - Transfer Playlists Between Music Services.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/tunemymusic.png">
+    </details>
     
 ## Cloud Storage
 
@@ -150,7 +203,7 @@ for networked thought.
         <summary>Preview</summary>
         <img src="Previews/box.png">
     </details>
-* [cowtransfer.com](https://cowtransfer.com/) - online file transfer service
+* [cowtransfer](https://cowtransfer.com/) - online file transfer service
     <details>
         <summary>Preview</summary>
         <img src="Previews/cowtransfer.png">
