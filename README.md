@@ -142,6 +142,16 @@ for networked thought.
         <summary>Preview</summary>
         <img src="Previews/kgbase.png">
     </details>
+* [WorkFlowy](https://workflowy.com/hello/) - An online notepad that helps you get organized.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/workflowy.png">
+    </details>
+* [Dynalist](https://dynalist.io/) - An online outlining notepad.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/dynalist.png">
+    </details>
 * [Coda](https://coda.io/welcome) - A new doc for teams.
     <details>
         <summary>Preview</summary>
@@ -167,7 +177,7 @@ for networked thought.
         <summary>Preview</summary>
         <img src="Previews/walling.png">
     </details>
-* [小书匠](https://markdown.xiaoshujiang.com/) - Online Markdown Tool.
+* [XiaoShuJiang](https://markdown.xiaoshujiang.com/) - Online Markdown Tool.
     <details>
         <summary>Preview</summary>
         <img src="Previews/xiaoshujiang.png">
