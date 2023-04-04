@@ -31,7 +31,7 @@
 * [Poe](https://poe.com/) - An ai aggregation site.
     <details>
         <summary>Preview</summary>
-        <img src="Previews/midjourney.png">
+        <img src="Previews/poe.png">
     </details>
     
     
