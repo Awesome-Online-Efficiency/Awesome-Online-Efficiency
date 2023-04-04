@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [AI Tools](#ai-tools)
 - [Developer Tools](#developer-tools)
 - [Design and Product](#design-and-product)
     - [Design Tools](#design-tools)
@@ -15,6 +16,25 @@
 - [Media Tools](#media-tools)
 - [Cloud Storage](#cloud-storage)
 
+## AI Tools
+
+* [ChatGPT](https://chat.openai.com/) - an amazing AI chatbot that uses natural language processing to create humanlike conversational dialogue.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/ChatGPT.png">
+    </details>
+* [Midjourney](https://www.midjourney.com/home/) - a text-to-image AI that generates gorgeous visuals based on your text prompts.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/midjourney.png">
+    </details>
+* [Poe](https://poe.com/) - An ai aggregation site.
+    <details>
+        <summary>Preview</summary>
+        <img src="Previews/midjourney.png">
+    </details>
+    
+    
 ## Developer Tools
 
 * [Hoppscotch](https://hoppscotch.io/) - A free, fast and beautiful API request builder.
