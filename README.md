@@ -18,6 +18,8 @@
 
 ## AI Tools
 
+* [NextReset](https://nextreset.ai/) - independent reference for source-linked Codex reset history and official AI service incidents, with a browser-local timer.
+
 * [ChatGPT](https://chat.openai.com/) - an amazing AI chatbot that uses natural language processing to create humanlike conversational dialogue.
     <details>
         <summary>Preview</summary>
