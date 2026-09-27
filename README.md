@@ -231,6 +231,8 @@ for networked thought.
         <img src="Previews/tunemymusic.png">
     </details>
     
+* [FileOnTap](https://fileontap.com/) - Free browser-based image and PDF converter; files stay on the device and no account is required.
+    
 ## Cloud Storage
 
 * [box](https://www.box.com/home/) -  cloud storage which provides file sharing, collaborating, and other tools for working with files that are uploaded to its servers.
