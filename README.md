@@ -134,6 +134,8 @@
     
 
 
+* [Koveto-Vasarlas Growth Pace Planner (Hungarian)](https://koveto-vasarlas.hu/tools/follower-growth) - Calculate the required average net follower increase per day and week from a target and time period.
+
 ## Writing Tools
 
 * [DeepL](https://www.deepl.com/translator/) - DeepL, an online translator that outperforms Google, Microsoft and Facebook.
