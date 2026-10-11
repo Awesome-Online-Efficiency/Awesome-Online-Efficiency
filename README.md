@@ -225,6 +225,11 @@ for networked thought.
         <summary>Preview</summary>
         <img src="Previews/moisesai.png">
     </details>
+* [QuietTake Noise Remover](https://noiseremover.site/) - Free browser-based speech noise reduction with local RNNoise processing, original/cleaned comparison and WAV export; up to 50 MB and five minutes.
+    <details>
+        <summary>Preview</summary>
+        <img src="https://noiseremover.site/og.png" alt="QuietTake Noise Remover">
+    </details>
 * [Tune My Music](https://www.tunemymusic.com/) - Transfer Playlists Between Music Services.
     <details>
         <summary>Preview</summary>
