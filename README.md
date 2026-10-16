@@ -141,6 +141,7 @@
         <summary>Preview</summary>
         <img src="Previews/deepl.png">
     </details>
+* [Doc2X](https://doc2x.noedgeai.com/) - Parse PDFs and images into Word, Markdown or LaTeX with formula/table recognition, and translate documents. Account required; limited free hosted usage, paid upgrades and separately billed API usage.
 * [Smallpdf](https://smallpdf.com/cn) - A Free Solution to all your PDF Problems.
     <details>
         <summary>Preview</summary>
